@@ -2,6 +2,15 @@
 
 A Flutter application that fetches and displays live cryptocurrency prices for **Bitcoin (BTC)**, **Ethereum (ETH)**, and **Litecoin (LTC)**. Users can choose from a variety of fiat currencies, and the app dynamically updates the exchange rates using [CoinAPI](https://www.coinapi.io/).
 
+---
+
+## Project Inspiration
+This project was developed as part of **Dr. Angela Yu's** Udemy course:  
+[**The Complete Flutter Development Bootcamp with Dart**](https://www.udemy.com/course/flutter-bootcamp-with-dart/).  
+Through this course, I learned essential Flutter concepts, including asynchronous programming, state management, and platform-specific UI design.
+
+---
+
 ## Features
 ### 1. Live Cryptocurrency Prices
 - Fetches the latest exchange rates for BTC, ETH, and LTC.
@@ -55,7 +64,7 @@ A Flutter application that fetches and displays live cryptocurrency prices for *
 
 ![bitcoinTicker_AUD_1](https://github.com/user-attachments/assets/5679a8fb-83dd-4498-bbcd-e07c88a7695d)
 
-##Video
+## Video
 
 https://user-images.githubusercontent.com/100719856/227813739-b0565d3c-9036-42da-8806-1d193e6abcbe.mp4
 
